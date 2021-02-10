@@ -1,0 +1,63 @@
+/* .one{
+    color:rgb(222, 246, 3)
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgimage{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(207, 201, 212);
+    background-image: url('iconfinder_user_male2_172626.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment:fixed ;
+
+}
+b:link{
+    color:rebeccapurple
+}
+a:hover{
+    color: sandybrown;
+} */
+.father{
+    width: 70%;
+    height: 90%;
+    background-color: blueviolet;
+    position: relative;
+    left: 0;
+}
+.child1{
+    width: 20%;
+    height: 20%;
+    background-color: burlywood;
+    position: absolute;
+    right: 0;
+}
+.child2{
+    width: 20%;
+    height: 20%;
+    background-color: chartreuse;
+    position: absolute;
+    bottom: 0;
+    
+}
+.child3{
+    width: 20%;
+    height: 20%;
+    background-color: rgb(134, 20, 20);
+    position: absolute;
+}
+.child4{
+    width: 20%;
+    height: 20%;
+    background-color: rgb(255, 0, 179);
+    position: absolute;
+    bottom:0; right: 0;
+}
+.ab{
+    width: 30%;
+    height: 2%;
+    background-color: chartreuse;
+}
